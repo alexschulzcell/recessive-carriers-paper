@@ -1,0 +1,5 @@
+# Text files with LF line endings; tables byte-exact so their SHA-256 checksums stay valid
+* text=auto eol=lf
+*.tsv -text
+*.png binary
+*.pdf binary
