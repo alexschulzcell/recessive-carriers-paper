@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+*.log
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
+# raw inputs and results are not distributed (see data/README.md)
+data/raw/
+results/
+*.parquet
+*.gz

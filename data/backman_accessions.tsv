@@ -1,0 +1,31 @@
+trait_code	gwas_catalog_accession	description	url	file_in_data_folder
+height	GCST90079277	Standing height (UKB data field 50)	https://ftp.ebi.ac.uk/pub/databases/gwas/summary_statistics/GCST90079001-GCST90080000/GCST90079277	backman/height.tsv.gz
+sitheight	GCST90078245	Sitting height (UKB data field 20015)	https://ftp.ebi.ac.uk/pub/databases/gwas/summary_statistics/GCST90078001-GCST90079000/GCST90078245	backman/sitheight.tsv.gz
+wbc	GCST90078978	White blood cell leukocyte count (UKB data field 30000)	https://ftp.ebi.ac.uk/pub/databases/gwas/summary_statistics/GCST90078001-GCST90079000/GCST90078978	backman/wbc.tsv.gz
+rbc	GCST90078979	Red blood cell erythrocyte count (UKB data field 30010)	https://ftp.ebi.ac.uk/pub/databases/gwas/summary_statistics/GCST90078001-GCST90079000/GCST90078979	backman/rbc.tsv.gz
+hb	GCST90078980	Haemoglobin concentration (UKB data field 30020)	https://ftp.ebi.ac.uk/pub/databases/gwas/summary_statistics/GCST90078001-GCST90079000/GCST90078980	backman/hb.tsv.gz
+mcv	GCST90078982	Mean corpuscular volume (UKB data field 30040)	https://ftp.ebi.ac.uk/pub/databases/gwas/summary_statistics/GCST90078001-GCST90079000/GCST90078982	backman/mcv.tsv.gz
+plt	GCST90078987	Platelet count (UKB data field 30080)	https://ftp.ebi.ac.uk/pub/databases/gwas/summary_statistics/GCST90078001-GCST90079000/GCST90078987	backman/plt.tsv.gz
+lymph	GCST90078991	Lymphocyte count (UKB data field 30120)	https://ftp.ebi.ac.uk/pub/databases/gwas/summary_statistics/GCST90078001-GCST90079000/GCST90078991	backman/lymph.tsv.gz
+albumin	GCST90079012	Albumin levels (UKB data field 30600)	https://ftp.ebi.ac.uk/pub/databases/gwas/summary_statistics/GCST90079001-GCST90080000/GCST90079012	backman/albumin.tsv.gz
+alt	GCST90079014	Alanine aminotransferase levels (UKB data field 30620)	https://ftp.ebi.ac.uk/pub/databases/gwas/summary_statistics/GCST90079001-GCST90080000/GCST90079014	backman/alt.tsv.gz
+ast	GCST90079020	Aspartate aminotransferase levels (UKB data field 30650)	https://ftp.ebi.ac.uk/pub/databases/gwas/summary_statistics/GCST90079001-GCST90080000/GCST90079020	backman/ast.tsv.gz
+urea	GCST90079022	Urea levels (UKB data field 30670)	https://ftp.ebi.ac.uk/pub/databases/gwas/summary_statistics/GCST90079001-GCST90080000/GCST90079022	backman/urea.tsv.gz
+chol	GCST90079024	Cholesterol levels (UKB data field 30690)	https://ftp.ebi.ac.uk/pub/databases/gwas/summary_statistics/GCST90079001-GCST90080000/GCST90079024	backman/chol.tsv.gz
+creat	GCST90079025	Creatinine levels (UKB data field 30700)	https://ftp.ebi.ac.uk/pub/databases/gwas/summary_statistics/GCST90079001-GCST90080000/GCST90079025	backman/creat.tsv.gz
+cysc	GCST90079027	Cystatin C levels (UKB data field 30720)	https://ftp.ebi.ac.uk/pub/databases/gwas/summary_statistics/GCST90079001-GCST90080000/GCST90079027	backman/cysc.tsv.gz
+ggt	GCST90079028	Gamma glutamyltransferase levels (UKB data field 30730)	https://ftp.ebi.ac.uk/pub/databases/gwas/summary_statistics/GCST90079001-GCST90080000/GCST90079028	backman/ggt.tsv.gz
+glucose	GCST90079029	Glucose levels (UKB data field 30740)	https://ftp.ebi.ac.uk/pub/databases/gwas/summary_statistics/GCST90079001-GCST90080000/GCST90079029	backman/glucose.tsv.gz
+hba1c	GCST90079030	Glycated haemoglobin HbA1c levels (UKB data field 30750)	https://ftp.ebi.ac.uk/pub/databases/gwas/summary_statistics/GCST90079001-GCST90080000/GCST90079030	backman/hba1c.tsv.gz
+hdl	GCST90079031	High density lipoprotein cholesterol levels (UKB data field 30760)	https://ftp.ebi.ac.uk/pub/databases/gwas/summary_statistics/GCST90079001-GCST90080000/GCST90079031	backman/hdl.tsv.gz
+ldl	GCST90079033	Direct low density lipoprotein levels (UKB data field 30780)	https://ftp.ebi.ac.uk/pub/databases/gwas/summary_statistics/GCST90079001-GCST90080000/GCST90079033	backman/ldl.tsv.gz
+phosphate	GCST90079037	Phosphate levels (UKB data field 30810)	https://ftp.ebi.ac.uk/pub/databases/gwas/summary_statistics/GCST90079001-GCST90080000/GCST90079037	backman/phosphate.tsv.gz
+bili	GCST90079041	Total bilirubin levels (UKB data field 30840)	https://ftp.ebi.ac.uk/pub/databases/gwas/summary_statistics/GCST90079001-GCST90080000/GCST90079041	backman/bili.tsv.gz
+tg	GCST90079044	Triglyceride levels (UKB data field 30870)	https://ftp.ebi.ac.uk/pub/databases/gwas/summary_statistics/GCST90079001-GCST90080000/GCST90079044	backman/tg.tsv.gz
+urate	GCST90079045	Urate levels (UKB data field 30880)	https://ftp.ebi.ac.uk/pub/databases/gwas/summary_statistics/GCST90079001-GCST90080000/GCST90079045	backman/urate.tsv.gz
+fev1	GCST90079017	Forced expiratory volume in 1 second FEV1 (UKB data field 3063)	https://ftp.ebi.ac.uk/pub/databases/gwas/summary_statistics/GCST90079001-GCST90080000/GCST90079017	backman/fev1.tsv.gz
+fvc	GCST90079015	Forced vital capacity FVC (UKB data field 3062)	https://ftp.ebi.ac.uk/pub/databases/gwas/summary_statistics/GCST90079001-GCST90080000/GCST90079015	backman/fvc.tsv.gz
+grip	GCST90079219	Hand grip strength right (UKB data field 47)	https://ftp.ebi.ac.uk/pub/databases/gwas/summary_statistics/GCST90079001-GCST90080000/GCST90079219	backman/grip.tsv.gz
+reaction	GCST90078252	Mean time to correctly identify matches (UKB data field 20023)	https://ftp.ebi.ac.uk/pub/databases/gwas/summary_statistics/GCST90078001-GCST90079000/GCST90078252	backman/reaction.tsv.gz
+sbp	GCST90079146	Systolic blood pressure automated reading (UKB data field 4080)	https://ftp.ebi.ac.uk/pub/databases/gwas/summary_statistics/GCST90079001-GCST90080000/GCST90079146	backman/sbp.tsv.gz
+ebmd	GCST90079052	Heel bone mineral density (UKB data field 3148)	https://ftp.ebi.ac.uk/pub/databases/gwas/summary_statistics/GCST90079001-GCST90080000/GCST90079052	backman/ebmd.tsv.gz

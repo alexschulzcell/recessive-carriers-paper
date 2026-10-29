@@ -1,0 +1,123 @@
+analysis_id	icd	description	n_cases	organ
+icd_first_occurrence-130622-both_sexes--	D50	Date D50 first reported (iron deficiency anaemia)	16576	blood
+icd_first_occurrence-130624-both_sexes--	D51	Date D51 first reported (vitamin b12 deficiency anaemia)	2533	blood
+icd_first_occurrence-130648-both_sexes--	D64	Date D64 first reported (other anaemias)	16820	blood
+icd_first_occurrence-130656-both_sexes--	D68	Date D68 first reported (other coagulation defects)	1682	blood
+icd_first_occurrence-130658-both_sexes--	D69	Date D69 first reported (purpura and other haemorrhagic conditions)	2871	blood
+icd_first_occurrence-130660-both_sexes--	D70	Date D70 first reported (agranulocytosis)	4151	blood
+icd_first_occurrence-130670-both_sexes--	D75	Date D75 first reported (other diseases of blood and blood-forming organs)	1589	blood
+icd_first_occurrence-130686-both_sexes--	D86	Date D86 first reported (sarcoidosis)	1378	immune
+icd_first_occurrence-130706-both_sexes--	E10	Date E10 first reported (insulin-dependent diabetes mellitus)	3251	glucose
+icd_first_occurrence-130708-both_sexes--	E11	Date E11 first reported (non-insulin-dependent diabetes mellitus)	24153	glucose
+icd_first_occurrence-130714-both_sexes--	E14	Date E14 first reported (unspecified diabetes mellitus)	17397	glucose
+icd_first_occurrence-130718-both_sexes--	E16	Date E16 first reported (other disorders of pancreatic internal secretion)	2292	glucose
+icd_first_occurrence-130814-both_sexes--	E78	Date E78 first reported (disorders of lipoprotein metabolism and other lipidaemias)	81328	lipids
+icd_first_occurrence-130842-both_sexes--	F03	Date F03 first reported (unspecified dementia)	1091	nervous
+icd_first_occurrence-130998-both_sexes--	G03	Date G03 first reported (meningitis due to other and unspecified causes)	1945	nervous
+icd_first_occurrence-131022-both_sexes--	G20	Date G20 first reported (parkinson's disease)	1901	nervous
+icd_first_occurrence-131032-both_sexes--	G25	Date G25 first reported (other extrapyramidal and movement disorders)	3663	nervous
+icd_first_occurrence-131038-both_sexes--	G31	Date G31 first reported (other degenerative diseases of nervous system, not elsewhere classified)	1088	nervous
+icd_first_occurrence-131042-both_sexes--	G35	Date G35 first reported (multiple sclerosis)	1916	nervous
+icd_first_occurrence-131048-both_sexes--	G40	Date G40 first reported (epilepsy)	5740	nervous
+icd_first_occurrence-131052-both_sexes--	G43	Date G43 first reported (migraine)	19633	nervous
+icd_first_occurrence-131054-both_sexes--	G44	Date G44 first reported (other headache syndromes)	4386	nervous
+icd_first_occurrence-131056-both_sexes--	G45	Date G45 first reported (transient cerebral ischaemic attacks and related syndromes)	6701	nervous
+icd_first_occurrence-131060-both_sexes--	G47	Date G47 first reported (sleep disorders)	13044	nervous
+icd_first_occurrence-131062-both_sexes--	G50	Date G50 first reported (disorders of trigeminal nerve)	2384	nervous
+icd_first_occurrence-131064-both_sexes--	G51	Date G51 first reported (facial nerve disorders)	2486	nervous
+icd_first_occurrence-131072-both_sexes--	G55	Date G55 first reported (nerve root and plexus compressions in diseases classified elsewhere)	4865	nervous
+icd_first_occurrence-131074-both_sexes--	G56	Date G56 first reported (mononeuropathies of upper limb)	18076	nervous
+icd_first_occurrence-131076-both_sexes--	G57	Date G57 first reported (mononeuropathies of lower limb)	3923	nervous
+icd_first_occurrence-131086-both_sexes--	G62	Date G62 first reported (other polyneuropathies)	2692	nervous
+icd_first_occurrence-131102-both_sexes--	G81	Date G81 first reported (hemiplegia)	2052	nervous
+icd_first_occurrence-131114-both_sexes--	G93	Date G93 first reported (other disorders of brain)	3090	nervous
+icd_first_occurrence-131118-both_sexes--	G95	Date G95 first reported (other diseases of spinal cord)	1205	nervous
+icd_first_occurrence-131124-both_sexes--	G98	Date G98 first reported (other disorders of nervous system, not elsewhere classified)	1685	nervous
+icd_first_occurrence-131126-both_sexes--	G99	Date G99 first reported (other disorders of nervous system in diseases classified elsewhere)	1298	nervous
+icd_first_occurrence-131270-both_sexes--	I00	Date I00 first reported (rheumatic fever without mention of heart involvement)	1317	circulatory
+icd_first_occurrence-131282-both_sexes--	I08	Date I08 first reported (multiple valve diseases)	2478	circulatory
+icd_first_occurrence-131286-both_sexes--	I10	Date I10 first reported (essential (primary) hypertension)	98167	circulatory
+icd_first_occurrence-131290-both_sexes--	I12	Date I12 first reported (hypertensive renal disease)	1513	circulatory
+icd_first_occurrence-131296-both_sexes--	I20	Date I20 first reported (angina pectoris)	24295	circulatory
+icd_first_occurrence-131298-both_sexes--	I21	Date I21 first reported (acute myocardial infarction)	14839	circulatory
+icd_first_occurrence-131304-both_sexes--	I24	Date I24 first reported (other acute ischaemic heart diseases)	2424	circulatory
+icd_first_occurrence-131306-both_sexes--	I25	Date I25 first reported (chronic ischaemic heart disease)	30007	circulatory
+icd_first_occurrence-131308-both_sexes--	I26	Date I26 first reported (pulmonary embolism)	6860	circulatory
+icd_first_occurrence-131310-both_sexes--	I27	Date I27 first reported (other pulmonary heart diseases)	1255	circulatory
+icd_first_occurrence-131316-both_sexes--	I31	Date I31 first reported (other diseases of pericardium)	1656	circulatory
+icd_first_occurrence-131322-both_sexes--	I34	Date I34 first reported (nonrheumatic mitral valve disorders)	3527	circulatory
+icd_first_occurrence-131324-both_sexes--	I35	Date I35 first reported (nonrheumatic aortic valve disorders)	3732	circulatory
+icd_first_occurrence-131338-both_sexes--	I42	Date I42 first reported (cardiomyopathy)	1833	circulatory
+icd_first_occurrence-131342-both_sexes--	I44	Date I44 first reported (atrioventricular and left bundle-branch block)	5272	circulatory
+icd_first_occurrence-131344-both_sexes--	I45	Date I45 first reported (other conduction disorders)	3310	circulatory
+icd_first_occurrence-131346-both_sexes--	I46	Date I46 first reported (cardiac arrest)	1405	circulatory
+icd_first_occurrence-131348-both_sexes--	I47	Date I47 first reported (paroxysmal tachycardia)	4838	circulatory
+icd_first_occurrence-131350-both_sexes--	I48	Date I48 first reported (atrial fibrillation and flutter)	20125	circulatory
+icd_first_occurrence-131352-both_sexes--	I49	Date I49 first reported (other cardiac arrhythmias)	7461	circulatory
+icd_first_occurrence-131354-both_sexes--	I50	Date I50 first reported (heart failure)	8019	circulatory
+icd_first_occurrence-131356-both_sexes--	I51	Date I51 first reported (complications and ill-defined descriptions of heart disease)	7177	circulatory
+icd_first_occurrence-131360-both_sexes--	I60	Date I60 first reported (subarachnoid haemorrhage)	1224	circulatory
+icd_first_occurrence-131362-both_sexes--	I61	Date I61 first reported (intracerebral haemorrhage)	1085	circulatory
+icd_first_occurrence-131366-both_sexes--	I63	Date I63 first reported (cerebral infarction)	4602	circulatory
+icd_first_occurrence-131368-both_sexes--	I64	Date I64 first reported (stroke, not specified as haemorrhage or infarction)	6923	circulatory
+icd_first_occurrence-131370-both_sexes--	I65	Date I65 first reported (occlusion and stenosis of precerebral arteries, not resulting in cerebral infarction)	1272	circulatory
+icd_first_occurrence-131374-both_sexes--	I67	Date I67 first reported (other cerebrovascular diseases)	3972	circulatory
+icd_first_occurrence-131378-both_sexes--	I69	Date I69 first reported (sequelae of cerebrovascular disease)	1602	circulatory
+icd_first_occurrence-131380-both_sexes--	I70	Date I70 first reported (atherosclerosis)	1718	circulatory
+icd_first_occurrence-131382-both_sexes--	I71	Date I71 first reported (aortic aneurysm and dissection)	2331	circulatory
+icd_first_occurrence-131386-both_sexes--	I73	Date I73 first reported (other peripheral vascular diseases)	8311	circulatory
+icd_first_occurrence-131388-both_sexes--	I74	Date I74 first reported (arterial embolism and thrombosis)	1178	circulatory
+icd_first_occurrence-131390-both_sexes--	I77	Date I77 first reported (other disorders of arteries and arterioles)	1870	circulatory
+icd_first_occurrence-131392-both_sexes--	I78	Date I78 first reported (diseases of capillaries)	2146	circulatory
+icd_first_occurrence-131396-both_sexes--	I80	Date I80 first reported (phlebitis and thrombophlebitis)	13406	circulatory
+icd_first_occurrence-131402-both_sexes--	I83	Date I83 first reported (varicose veins of lower extremities)	17877	circulatory
+icd_first_occurrence-131404-both_sexes--	I84	Date I84 first reported (haemorrhoids)	24741	circulatory
+icd_first_occurrence-131408-both_sexes--	I86	Date I86 first reported (varicose veins of other sites)	1579	circulatory
+icd_first_occurrence-131410-both_sexes--	I87	Date I87 first reported (other disorders of veins)	1094	circulatory
+icd_first_occurrence-131414-both_sexes--	I89	Date I89 first reported (other non-infective disorders of lymphatic vessels and lymph nodes)	1406	circulatory
+icd_first_occurrence-131416-both_sexes--	I95	Date I95 first reported (hypotension)	8387	circulatory
+icd_first_occurrence-131484-both_sexes--	J40	Date J40 first reported (bronchitis, not specified as acute or chronic)	7509	lung
+icd_first_occurrence-131490-both_sexes--	J43	Date J43 first reported (emphysema)	2550	lung
+icd_first_occurrence-131492-both_sexes--	J44	Date J44 first reported (other chronic obstructive pulmonary disease)	12850	lung
+icd_first_occurrence-131494-both_sexes--	J45	Date J45 first reported (asthma)	53242	lung
+icd_first_occurrence-131498-both_sexes--	J47	Date J47 first reported (bronchiectasis)	3282	lung
+icd_first_occurrence-131518-both_sexes--	J69	Date J69 first reported (pneumonitis due to solids and liquids)	1059	lung
+icd_first_occurrence-131528-both_sexes--	J84	Date J84 first reported (other interstitial pulmonary diseases)	1797	lung
+icd_first_occurrence-131534-both_sexes--	J90	Date J90 first reported (pleural effusion, not elsewhere classified)	6824	lung
+icd_first_occurrence-131538-both_sexes--	J92	Date J92 first reported (pleural plaque)	1277	lung
+icd_first_occurrence-131540-both_sexes--	J93	Date J93 first reported (pneumothorax)	2196	lung
+icd_first_occurrence-131546-both_sexes--	J96	Date J96 first reported (respiratory failure, not elsewhere classified)	2932	lung
+icd_first_occurrence-131548-both_sexes--	J98	Date J98 first reported (other respiratory disorders)	11927	lung
+icd_first_occurrence-131658-both_sexes--	K70	Date K70 first reported (alcoholic liver disease)	1284	liver
+icd_first_occurrence-131666-both_sexes--	K74	Date K74 first reported (fibrosis and cirrhosis of liver)	1405	liver
+icd_first_occurrence-131668-both_sexes--	K75	Date K75 first reported (other inflammatory liver diseases)	1568	liver
+icd_first_occurrence-131670-both_sexes--	K76	Date K76 first reported (other diseases of liver)	6864	liver
+icd_first_occurrence-131674-both_sexes--	K80	Date K80 first reported (cholelithiasis)	22173	liver
+icd_first_occurrence-131676-both_sexes--	K81	Date K81 first reported (cholecystitis)	4098	liver
+icd_first_occurrence-131678-both_sexes--	K82	Date K82 first reported (other diseases of gallbladder)	2565	liver
+icd_first_occurrence-131680-both_sexes--	K83	Date K83 first reported (other diseases of biliary tract)	2688	liver
+icd_first_occurrence-131868-both_sexes--	M15	Date M15 first reported (polyarthrosis)	8330	skeletal
+icd_first_occurrence-131870-both_sexes--	M16	Date M16 first reported (coxarthrosis [arthrosis of hip])	15958	skeletal
+icd_first_occurrence-131872-both_sexes--	M17	Date M17 first reported (gonarthrosis [arthrosis of knee])	28321	skeletal
+icd_first_occurrence-131874-both_sexes--	M18	Date M18 first reported (arthrosis of first carpometacarpal joint)	1696	skeletal
+icd_first_occurrence-131876-both_sexes--	M19	Date M19 first reported (other arthrosis)	59705	skeletal
+icd_first_occurrence-131906-both_sexes--	M41	Date M41 first reported (scoliosis)	2323	skeletal
+icd_first_occurrence-131910-both_sexes--	M43	Date M43 first reported (other deforming dorsopathies)	4046	skeletal
+icd_first_occurrence-131934-both_sexes--	M62	Date M62 first reported (other disorders of muscle)	3437	muscle
+icd_first_occurrence-131962-both_sexes--	M80	Date M80 first reported (osteoporosis with pathological fracture)	1259	skeletal
+icd_first_occurrence-131964-both_sexes--	M81	Date M81 first reported (osteoporosis without pathological fracture)	14043	skeletal
+icd_first_occurrence-131970-both_sexes--	M84	Date M84 first reported (disorders of continuity of bone)	2765	skeletal
+icd_first_occurrence-131972-both_sexes--	M85	Date M85 first reported (other disorders of bone density and structure)	9939	skeletal
+icd_first_occurrence-131974-both_sexes--	M86	Date M86 first reported (osteomyelitis)	1770	skeletal
+icd_first_occurrence-131980-both_sexes--	M89	Date M89 first reported (other disorders of bone)	3930	skeletal
+icd_first_occurrence-131990-both_sexes--	M94	Date M94 first reported (other disorders of cartilage)	1928	skeletal
+icd_first_occurrence-132002-both_sexes--	N02	Date N02 first reported (recurrent and persistent haematuria)	1059	kidney
+icd_first_occurrence-132016-both_sexes--	N10	Date N10 first reported (acute tubulo-interstitial nephritis)	1156	kidney
+icd_first_occurrence-132020-both_sexes--	N12	Date N12 first reported (tubulo-interstitial nephritis, not specified as acute or chronic)	1367	kidney
+icd_first_occurrence-132022-both_sexes--	N13	Date N13 first reported (obstructive and reflux uropathy)	3434	kidney
+icd_first_occurrence-132030-both_sexes--	N17	Date N17 first reported (acute renal failure)	7312	kidney
+icd_first_occurrence-132032-both_sexes--	N18	Date N18 first reported (chronic renal failure)	14086	kidney
+icd_first_occurrence-132034-both_sexes--	N19	Date N19 first reported (unspecified renal failure)	2345	kidney
+icd_first_occurrence-132036-both_sexes--	N20	Date N20 first reported (calculus of kidney and ureter)	5879	kidney
+icd_first_occurrence-132042-both_sexes--	N23	Date N23 first reported (unspecified renal colic)	4304	kidney
+icd_first_occurrence-132050-both_sexes--	N28	Date N28 first reported (other disorders of kidney and ureter, not elsewhere classified)	5275	kidney

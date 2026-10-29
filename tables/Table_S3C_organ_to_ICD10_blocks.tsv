@@ -1,0 +1,123 @@
+organ	pre-specified_blocks	icd10	description	n_cases	analysis_id	in_block
+blood	D50-D77	D50	iron deficiency anaemia	16576	icd_first_occurrence-130622-both_sexes--	True
+blood	D50-D77	D51	vitamin b12 deficiency anaemia	2533	icd_first_occurrence-130624-both_sexes--	True
+blood	D50-D77	D64	other anaemias	16820	icd_first_occurrence-130648-both_sexes--	True
+blood	D50-D77	D68	other coagulation defects	1682	icd_first_occurrence-130656-both_sexes--	True
+blood	D50-D77	D69	purpura and other haemorrhagic conditions	2871	icd_first_occurrence-130658-both_sexes--	True
+blood	D50-D77	D70	agranulocytosis	4151	icd_first_occurrence-130660-both_sexes--	True
+blood	D50-D77	D75	other diseases of blood and blood-forming organs	1589	icd_first_occurrence-130670-both_sexes--	True
+glucose	E10-E16	E10	insulin-dependent diabetes mellitus	3251	icd_first_occurrence-130706-both_sexes--	True
+glucose	E10-E16	E11	non-insulin-dependent diabetes mellitus	24153	icd_first_occurrence-130708-both_sexes--	True
+glucose	E10-E16	E14	unspecified diabetes mellitus	17397	icd_first_occurrence-130714-both_sexes--	True
+glucose	E10-E16	E16	other disorders of pancreatic internal secretion	2292	icd_first_occurrence-130718-both_sexes--	True
+immune	D80-D89	D86	sarcoidosis	1378	icd_first_occurrence-130686-both_sexes--	True
+circulatory	I00-I99	I00	rheumatic fever without mention of heart involvement	1317	icd_first_occurrence-131270-both_sexes--	True
+circulatory	I00-I99	I08	multiple valve diseases	2478	icd_first_occurrence-131282-both_sexes--	True
+circulatory	I00-I99	I10	essential (primary) hypertension	98167	icd_first_occurrence-131286-both_sexes--	True
+circulatory	I00-I99	I12	hypertensive renal disease	1513	icd_first_occurrence-131290-both_sexes--	True
+circulatory	I00-I99	I20	angina pectoris	24295	icd_first_occurrence-131296-both_sexes--	True
+circulatory	I00-I99	I21	acute myocardial infarction	14839	icd_first_occurrence-131298-both_sexes--	True
+circulatory	I00-I99	I24	other acute ischaemic heart diseases	2424	icd_first_occurrence-131304-both_sexes--	True
+circulatory	I00-I99	I25	chronic ischaemic heart disease	30007	icd_first_occurrence-131306-both_sexes--	True
+circulatory	I00-I99	I26	pulmonary embolism	6860	icd_first_occurrence-131308-both_sexes--	True
+circulatory	I00-I99	I27	other pulmonary heart diseases	1255	icd_first_occurrence-131310-both_sexes--	True
+circulatory	I00-I99	I31	other diseases of pericardium	1656	icd_first_occurrence-131316-both_sexes--	True
+circulatory	I00-I99	I34	nonrheumatic mitral valve disorders	3527	icd_first_occurrence-131322-both_sexes--	True
+circulatory	I00-I99	I35	nonrheumatic aortic valve disorders	3732	icd_first_occurrence-131324-both_sexes--	True
+circulatory	I00-I99	I42	cardiomyopathy	1833	icd_first_occurrence-131338-both_sexes--	True
+circulatory	I00-I99	I44	atrioventricular and left bundle-branch block	5272	icd_first_occurrence-131342-both_sexes--	True
+circulatory	I00-I99	I45	other conduction disorders	3310	icd_first_occurrence-131344-both_sexes--	True
+circulatory	I00-I99	I46	cardiac arrest	1405	icd_first_occurrence-131346-both_sexes--	True
+circulatory	I00-I99	I47	paroxysmal tachycardia	4838	icd_first_occurrence-131348-both_sexes--	True
+circulatory	I00-I99	I48	atrial fibrillation and flutter	20125	icd_first_occurrence-131350-both_sexes--	True
+circulatory	I00-I99	I49	other cardiac arrhythmias	7461	icd_first_occurrence-131352-both_sexes--	True
+circulatory	I00-I99	I50	heart failure	8019	icd_first_occurrence-131354-both_sexes--	True
+circulatory	I00-I99	I51	complications and ill-defined descriptions of heart disease	7177	icd_first_occurrence-131356-both_sexes--	True
+circulatory	I00-I99	I60	subarachnoid haemorrhage	1224	icd_first_occurrence-131360-both_sexes--	True
+circulatory	I00-I99	I61	intracerebral haemorrhage	1085	icd_first_occurrence-131362-both_sexes--	True
+circulatory	I00-I99	I63	cerebral infarction	4602	icd_first_occurrence-131366-both_sexes--	True
+circulatory	I00-I99	I64	stroke, not specified as haemorrhage or infarction	6923	icd_first_occurrence-131368-both_sexes--	True
+circulatory	I00-I99	I65	occlusion and stenosis of precerebral arteries, not resulting in cerebral infarction	1272	icd_first_occurrence-131370-both_sexes--	True
+circulatory	I00-I99	I67	other cerebrovascular diseases	3972	icd_first_occurrence-131374-both_sexes--	True
+circulatory	I00-I99	I69	sequelae of cerebrovascular disease	1602	icd_first_occurrence-131378-both_sexes--	True
+circulatory	I00-I99	I70	atherosclerosis	1718	icd_first_occurrence-131380-both_sexes--	True
+circulatory	I00-I99	I71	aortic aneurysm and dissection	2331	icd_first_occurrence-131382-both_sexes--	True
+circulatory	I00-I99	I73	other peripheral vascular diseases	8311	icd_first_occurrence-131386-both_sexes--	True
+circulatory	I00-I99	I74	arterial embolism and thrombosis	1178	icd_first_occurrence-131388-both_sexes--	True
+circulatory	I00-I99	I77	other disorders of arteries and arterioles	1870	icd_first_occurrence-131390-both_sexes--	True
+circulatory	I00-I99	I78	diseases of capillaries	2146	icd_first_occurrence-131392-both_sexes--	True
+circulatory	I00-I99	I80	phlebitis and thrombophlebitis	13406	icd_first_occurrence-131396-both_sexes--	True
+circulatory	I00-I99	I83	varicose veins of lower extremities	17877	icd_first_occurrence-131402-both_sexes--	True
+circulatory	I00-I99	I84	haemorrhoids	24741	icd_first_occurrence-131404-both_sexes--	True
+circulatory	I00-I99	I86	varicose veins of other sites	1579	icd_first_occurrence-131408-both_sexes--	True
+circulatory	I00-I99	I87	other disorders of veins	1094	icd_first_occurrence-131410-both_sexes--	True
+circulatory	I00-I99	I89	other non-infective disorders of lymphatic vessels and lymph nodes	1406	icd_first_occurrence-131414-both_sexes--	True
+circulatory	I00-I99	I95	hypotension	8387	icd_first_occurrence-131416-both_sexes--	True
+liver	K70-K83	K70	alcoholic liver disease	1284	icd_first_occurrence-131658-both_sexes--	True
+liver	K70-K83	K74	fibrosis and cirrhosis of liver	1405	icd_first_occurrence-131666-both_sexes--	True
+liver	K70-K83	K75	other inflammatory liver diseases	1568	icd_first_occurrence-131668-both_sexes--	True
+liver	K70-K83	K76	other diseases of liver	6864	icd_first_occurrence-131670-both_sexes--	True
+liver	K70-K83	K80	cholelithiasis	22173	icd_first_occurrence-131674-both_sexes--	True
+liver	K70-K83	K81	cholecystitis	4098	icd_first_occurrence-131676-both_sexes--	True
+liver	K70-K83	K82	other diseases of gallbladder	2565	icd_first_occurrence-131678-both_sexes--	True
+liver	K70-K83	K83	other diseases of biliary tract	2688	icd_first_occurrence-131680-both_sexes--	True
+lipids	E78	E78	disorders of lipoprotein metabolism and other lipidaemias	81328	icd_first_occurrence-130814-both_sexes--	True
+lung	J40-J99	J40	bronchitis, not specified as acute or chronic	7509	icd_first_occurrence-131484-both_sexes--	True
+lung	J40-J99	J43	emphysema	2550	icd_first_occurrence-131490-both_sexes--	True
+lung	J40-J99	J44	other chronic obstructive pulmonary disease	12850	icd_first_occurrence-131492-both_sexes--	True
+lung	J40-J99	J45	asthma	53242	icd_first_occurrence-131494-both_sexes--	True
+lung	J40-J99	J47	bronchiectasis	3282	icd_first_occurrence-131498-both_sexes--	True
+lung	J40-J99	J69	pneumonitis due to solids and liquids	1059	icd_first_occurrence-131518-both_sexes--	True
+lung	J40-J99	J84	other interstitial pulmonary diseases	1797	icd_first_occurrence-131528-both_sexes--	True
+lung	J40-J99	J90	pleural effusion, not elsewhere classified	6824	icd_first_occurrence-131534-both_sexes--	True
+lung	J40-J99	J92	pleural plaque	1277	icd_first_occurrence-131538-both_sexes--	True
+lung	J40-J99	J93	pneumothorax	2196	icd_first_occurrence-131540-both_sexes--	True
+lung	J40-J99	J96	respiratory failure, not elsewhere classified	2932	icd_first_occurrence-131546-both_sexes--	True
+lung	J40-J99	J98	other respiratory disorders	11927	icd_first_occurrence-131548-both_sexes--	True
+muscle	G70-G73, M60-M63	M62	other disorders of muscle	3437	icd_first_occurrence-131934-both_sexes--	True
+nervous	G00-G69, G74-G99, F00-F03, F70-F79	F03	unspecified dementia	1091	icd_first_occurrence-130842-both_sexes--	True
+nervous	G00-G69, G74-G99, F00-F03, F70-F79	G03	meningitis due to other and unspecified causes	1945	icd_first_occurrence-130998-both_sexes--	True
+nervous	G00-G69, G74-G99, F00-F03, F70-F79	G20	parkinson's disease	1901	icd_first_occurrence-131022-both_sexes--	True
+nervous	G00-G69, G74-G99, F00-F03, F70-F79	G25	other extrapyramidal and movement disorders	3663	icd_first_occurrence-131032-both_sexes--	True
+nervous	G00-G69, G74-G99, F00-F03, F70-F79	G31	other degenerative diseases of nervous system, not elsewhere classified	1088	icd_first_occurrence-131038-both_sexes--	True
+nervous	G00-G69, G74-G99, F00-F03, F70-F79	G35	multiple sclerosis	1916	icd_first_occurrence-131042-both_sexes--	True
+nervous	G00-G69, G74-G99, F00-F03, F70-F79	G40	epilepsy	5740	icd_first_occurrence-131048-both_sexes--	True
+nervous	G00-G69, G74-G99, F00-F03, F70-F79	G43	migraine	19633	icd_first_occurrence-131052-both_sexes--	True
+nervous	G00-G69, G74-G99, F00-F03, F70-F79	G44	other headache syndromes	4386	icd_first_occurrence-131054-both_sexes--	True
+nervous	G00-G69, G74-G99, F00-F03, F70-F79	G45	transient cerebral ischaemic attacks and related syndromes	6701	icd_first_occurrence-131056-both_sexes--	True
+nervous	G00-G69, G74-G99, F00-F03, F70-F79	G47	sleep disorders	13044	icd_first_occurrence-131060-both_sexes--	True
+nervous	G00-G69, G74-G99, F00-F03, F70-F79	G50	disorders of trigeminal nerve	2384	icd_first_occurrence-131062-both_sexes--	True
+nervous	G00-G69, G74-G99, F00-F03, F70-F79	G51	facial nerve disorders	2486	icd_first_occurrence-131064-both_sexes--	True
+nervous	G00-G69, G74-G99, F00-F03, F70-F79	G55	nerve root and plexus compressions in diseases classified elsewhere	4865	icd_first_occurrence-131072-both_sexes--	True
+nervous	G00-G69, G74-G99, F00-F03, F70-F79	G56	mononeuropathies of upper limb	18076	icd_first_occurrence-131074-both_sexes--	True
+nervous	G00-G69, G74-G99, F00-F03, F70-F79	G57	mononeuropathies of lower limb	3923	icd_first_occurrence-131076-both_sexes--	True
+nervous	G00-G69, G74-G99, F00-F03, F70-F79	G62	other polyneuropathies	2692	icd_first_occurrence-131086-both_sexes--	True
+nervous	G00-G69, G74-G99, F00-F03, F70-F79	G81	hemiplegia	2052	icd_first_occurrence-131102-both_sexes--	True
+nervous	G00-G69, G74-G99, F00-F03, F70-F79	G93	other disorders of brain	3090	icd_first_occurrence-131114-both_sexes--	True
+nervous	G00-G69, G74-G99, F00-F03, F70-F79	G95	other diseases of spinal cord	1205	icd_first_occurrence-131118-both_sexes--	True
+nervous	G00-G69, G74-G99, F00-F03, F70-F79	G98	other disorders of nervous system, not elsewhere classified	1685	icd_first_occurrence-131124-both_sexes--	True
+nervous	G00-G69, G74-G99, F00-F03, F70-F79	G99	other disorders of nervous system in diseases classified elsewhere	1298	icd_first_occurrence-131126-both_sexes--	True
+kidney	N00-N29	N02	recurrent and persistent haematuria	1059	icd_first_occurrence-132002-both_sexes--	True
+kidney	N00-N29	N10	acute tubulo-interstitial nephritis	1156	icd_first_occurrence-132016-both_sexes--	True
+kidney	N00-N29	N12	tubulo-interstitial nephritis, not specified as acute or chronic	1367	icd_first_occurrence-132020-both_sexes--	True
+kidney	N00-N29	N13	obstructive and reflux uropathy	3434	icd_first_occurrence-132022-both_sexes--	True
+kidney	N00-N29	N17	acute renal failure	7312	icd_first_occurrence-132030-both_sexes--	True
+kidney	N00-N29	N18	chronic renal failure	14086	icd_first_occurrence-132032-both_sexes--	True
+kidney	N00-N29	N19	unspecified renal failure	2345	icd_first_occurrence-132034-both_sexes--	True
+kidney	N00-N29	N20	calculus of kidney and ureter	5879	icd_first_occurrence-132036-both_sexes--	True
+kidney	N00-N29	N23	unspecified renal colic	4304	icd_first_occurrence-132042-both_sexes--	True
+kidney	N00-N29	N28	other disorders of kidney and ureter, not elsewhere classified	5275	icd_first_occurrence-132050-both_sexes--	True
+skeletal	M15-M19, M40-M43, M80-M94, Q65-Q79	M15	polyarthrosis	8330	icd_first_occurrence-131868-both_sexes--	True
+skeletal	M15-M19, M40-M43, M80-M94, Q65-Q79	M16	coxarthrosis [arthrosis of hip]	15958	icd_first_occurrence-131870-both_sexes--	True
+skeletal	M15-M19, M40-M43, M80-M94, Q65-Q79	M17	gonarthrosis [arthrosis of knee]	28321	icd_first_occurrence-131872-both_sexes--	True
+skeletal	M15-M19, M40-M43, M80-M94, Q65-Q79	M18	arthrosis of first carpometacarpal joint	1696	icd_first_occurrence-131874-both_sexes--	True
+skeletal	M15-M19, M40-M43, M80-M94, Q65-Q79	M19	other arthrosis	59705	icd_first_occurrence-131876-both_sexes--	True
+skeletal	M15-M19, M40-M43, M80-M94, Q65-Q79	M41	scoliosis	2323	icd_first_occurrence-131906-both_sexes--	True
+skeletal	M15-M19, M40-M43, M80-M94, Q65-Q79	M43	other deforming dorsopathies	4046	icd_first_occurrence-131910-both_sexes--	True
+skeletal	M15-M19, M40-M43, M80-M94, Q65-Q79	M80	osteoporosis with pathological fracture	1259	icd_first_occurrence-131962-both_sexes--	True
+skeletal	M15-M19, M40-M43, M80-M94, Q65-Q79	M81	osteoporosis without pathological fracture	14043	icd_first_occurrence-131964-both_sexes--	True
+skeletal	M15-M19, M40-M43, M80-M94, Q65-Q79	M84	disorders of continuity of bone	2765	icd_first_occurrence-131970-both_sexes--	True
+skeletal	M15-M19, M40-M43, M80-M94, Q65-Q79	M85	other disorders of bone density and structure	9939	icd_first_occurrence-131972-both_sexes--	True
+skeletal	M15-M19, M40-M43, M80-M94, Q65-Q79	M86	osteomyelitis	1770	icd_first_occurrence-131974-both_sexes--	True
+skeletal	M15-M19, M40-M43, M80-M94, Q65-Q79	M89	other disorders of bone	3930	icd_first_occurrence-131980-both_sexes--	True
+skeletal	M15-M19, M40-M43, M80-M94, Q65-Q79	M94	other disorders of cartilage	1928	icd_first_occurrence-131990-both_sexes--	True

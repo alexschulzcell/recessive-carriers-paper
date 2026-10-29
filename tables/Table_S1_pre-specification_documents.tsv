@@ -1,0 +1,13 @@
+document	content	sha256	english_translation	location
+PRAEREG_mechanismus.md	Mechanism classes (secreted vs catabolic)	43a20f532fcba94b680a85e2cb99dc6cf9db5f0614bfd42d2bcf65d1617ac8ac	PRAEREG_mechanismus_EN.md	prespecification/PRAEREG_mechanismus.md in the code repository
+PRAEREG_hauptprodukt.md	Main-product routes W1–W3	74c9744a7add930f8005ac72bd48a92cc4b6a25de21231e693eac462bae9596c	PRAEREG_hauptprodukt_EN.md	prespecification/PRAEREG_hauptprodukt.md in the code repository
+PRAEREG_stufe9.md	Producer cell (W4), population-level summaries, dominance coefficient h	f44dfdb0161053fa87c43b9e30a5129996ae9138f10f502231c0b2cbe2091a2c	PRAEREG_stufe9_EN.md	prespecification/PRAEREG_stufe9.md in the code repository
+PRAEREG_vorzeichen.md	Directional tests T10-1 to T10-8	cf2ad9854bb39b6c3e856f995f2355d1ad8c1b1dc62ed7067026b269cfd7e991	PRAEREG_vorzeichen_EN.md	prespecification/PRAEREG_vorzeichen.md in the code repository
+PRAEREG_gnomad.md	Constraint; direction × specificity in G&H	c7d3e1069a7d0c41c2905da4fe0e38a0e1640de34371cf7733e9c8bce12de0ef	PRAEREG_gnomad_EN.md	prespecification/PRAEREG_gnomad.md in the code repository
+PRAEREG_maus.md	Heterozygous mice	1f4d0935c20af26367892bbeb4da3176889b67e5ddcd16399d4fca45c0b7a903	PRAEREG_maus_EN.md	prespecification/PRAEREG_maus.md in the code repository
+PRAEREG_diagnosen.md	ICD-10 diagnoses	26cd4e1b4ec90964f1399b6da1624a300c18dc5161a91a3c36a3856e2b09a39e	PRAEREG_diagnosen_EN.md	prespecification/PRAEREG_diagnosen.md in the code repository
+PRAEREG_hefe.md	Yeast HIP/HOP	9d3d7e6e326efc292214c620fa2f2e6a9fc525b01baf35ef7f549187c4c6209e	PRAEREG_hefe_EN.md	prespecification/PRAEREG_hefe.md in the code repository
+PRAEREG_alphamissense.md	Variant-damage dose response	12207c6c061e034ca30bb70a49c0b3d0925b8877a38a496d352713954ae898b1	PRAEREG_alphamissense_EN.md	prespecification/PRAEREG_alphamissense.md in the code repository
+PRAEREG_stufe19.md	Cross-cohort consistency P2, yeast-human P3 (excerpt)	d7be89f9ac8ed9721bc76cd187a0865ba4f3f6b3fd8c986b87a091b7862e219e (complete original; repository file is an excerpt)	PRAEREG_stufe19_EN.md	prespecification/PRAEREG_stufe19.md in the code repository
+PRAEREG_finngen.md	Replication in FinnGen, F1–F8	0581b4cb3bab578fd9180f1f9727a58cff7ffa0b269e2c5d3088f39c5f6e4074	PRAEREG_finngen_EN.md	prespecification/PRAEREG_finngen.md in the code repository
+PRAEREG_bbj.md	Replication in BioBank Japan, B1–B8, X1, X2	b6537a15f97b36be7717201369194b63fb0e5265e9c8b2d2c3f60bc92904c307	PRAEREG_bbj_EN.md	prespecification/PRAEREG_bbj.md in the code repository

@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite the paper and the Zenodo record of this repository."
+title: "Carriers of recessive disease are a mild form of the same disease – code and data"
+authors:
+  - family-names: Zentgraf
+    given-names: Alexander
+    orcid: "https://orcid.org/0009-0009-2605-4350"
+    affiliation: "Institute of Human Genetics, Universitätsklinikum Erlangen, Friedrich-Alexander-Universität Erlangen-Nürnberg"
+  - name: "Genes & Health Research Team"
+  - family-names: Thiel
+    given-names: Christian T.
+    orcid: "https://orcid.org/0000-0003-3817-7277"
+    affiliation: "Institute of Human Genetics, Universitätsklinikum Erlangen, Friedrich-Alexander-Universität Erlangen-Nürnberg"
+license: MIT
+repository-code: "https://github.com/alexschulzcell/recessive-carriers-paper"
+version: "2.0.0"
+date-released: 2026-10-28
+keywords:
+  - recessive disease
+  - heterozygous carriers
+  - dominance
+  - gene burden
+  - UK Biobank

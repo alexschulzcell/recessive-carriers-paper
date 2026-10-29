@@ -1,0 +1,33 @@
+{
+  "title": "Carriers of recessive disease are a mild form of the same disease – code and data",
+  "upload_type": "software",
+  "version": "2.0.0",
+  "description": "Analysis code, pre-specification documents, supplemental tables, figures and input documentation (sources and SHA-256 checksums) for the paper 'Carriers of recessive disease are a mild form of the same disease' by Alexander Zentgraf, the Genes & Health Research Team and Christian T. Thiel. All analyses use public summary statistics (UK Biobank via Genebass and the AstraZeneca PheWAS portal, Genes & Health, FinnGen, BioBank Japan, FinMetSeq, exome-chip consortia) and public resources; no individual-level data were used.",
+  "creators": [
+    {
+      "name": "Zentgraf, Alexander",
+      "affiliation": "Institute of Human Genetics, Universitätsklinikum Erlangen, Friedrich-Alexander-Universität Erlangen-Nürnberg",
+      "orcid": "0009-0009-2605-4350"
+    },
+    {
+      "name": "Genes & Health Research Team"
+    },
+    {
+      "name": "Thiel, Christian T.",
+      "affiliation": "Institute of Human Genetics, Universitätsklinikum Erlangen, Friedrich-Alexander-Universität Erlangen-Nürnberg",
+      "orcid": "0000-0003-3817-7277"
+    }
+  ],
+  "license": "MIT",
+  "keywords": [
+    "recessive disease",
+    "heterozygous carriers",
+    "dominance",
+    "gene burden",
+    "UK Biobank",
+    "Genes & Health",
+    "FinnGen",
+    "BioBank Japan",
+    "yeast chemogenomics"
+  ]
+}
