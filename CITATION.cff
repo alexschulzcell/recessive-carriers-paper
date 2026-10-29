@@ -13,6 +13,7 @@ authors:
     affiliation: "Institute of Human Genetics, Universitätsklinikum Erlangen, Friedrich-Alexander-Universität Erlangen-Nürnberg"
 license: MIT
 repository-code: "https://github.com/alexschulzcell/recessive-carriers-paper"
+doi: "10.5281/zenodo.23759254"
 version: "2.0.0"
 date-released: 2026-10-28
 keywords:

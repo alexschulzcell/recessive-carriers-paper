@@ -4,6 +4,8 @@ Code and data companion to the paper by **Alexander Zentgraf**, the **Genes & He
 **Christian T. Thiel** (Institute of Human Genetics, Universitätsklinikum Erlangen, Friedrich-Alexander-Universität
 Erlangen-Nürnberg).
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23759254.svg)](https://doi.org/10.5281/zenodo.23759254)
+
 Heterozygous carriers of recessive disease are considered silent. Using exome statistics from 394,841 UK Biobank
 participants, we show that carriers of damaging variants in 2,470 genes that cause exclusively recessive disease deviate
 in traits of the gene's disease organ, toward the gene's own disease. With analyses specified before the data were seen,
@@ -104,7 +106,8 @@ aggregate statistics derived from UK Biobank summary statistics and values from 
 
 ## Citation
 
-Please cite the paper (see `CITATION.cff`) and, for the code and data, the Zenodo record of this repository.
+Please cite the paper (see `CITATION.cff`) and, for the code and data, the Zenodo record of this version:
+https://doi.org/10.5281/zenodo.23759254 (all versions: https://doi.org/10.5281/zenodo.23527672).
 
 ## Versions
 
